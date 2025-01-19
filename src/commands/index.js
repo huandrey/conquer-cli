@@ -1,4 +1,3 @@
-// src/commands/index.js
 import workspaceCommands from './workspace.js';
 import taskCommands from './task.js';
 import templateCommands from './template.js';
