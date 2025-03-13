@@ -1,5 +1,5 @@
 # conquer-cli
-Uma CLI (Command Line Interface) poderosa para gerenciamento de tarefas diárias, projetada para desenvolvedores que querem a praticidade de trabalhar direto do terminal.
+Uma CLI poderosa para gerenciamento de tarefas diárias, projetada para desenvolvedores que querem a praticidade de trabalhar direto do terminal.
 
 ### Principais características
 - 🏢 **Workspaces**: Organize suas tarefas em diferentes contextos (trabalho, pessoal, projetos)
